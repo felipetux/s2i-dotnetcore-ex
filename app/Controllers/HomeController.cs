@@ -24,7 +24,7 @@ namespace app.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "For more info contact Felipe.";
 
             return View();
         }
